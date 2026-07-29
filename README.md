@@ -1,248 +1,165 @@
 <!--
-  GitHub Profile README for Cheav Sarin
-
-  To show this README on your GitHub profile:
-  1. Create a public repository with the same name as your GitHub username: sarinitc
-  2. Add this file to that repository and name it README.md
-  3. Commit and push it to GitHub
+GitHub Profile README for Cheav Sarin
+Repository name must be the same as the GitHub username: sarinitc
 -->
 
-<a href="https://github.com/sarinitc">
-  <img width="125" align="right" src="https://github.com/sarinitc.png" alt="Cheav Sarin GitHub profile image" />
+<a target="_blank" href="https://github.com/sarinitc">
+  <img width="120" align="right" src="https://github.com/sarinitc.png" alt="Cheav Sarin profile photo">
 </a>
 
 CURRICULUM VITAE
 
-Profile · Education · Technical Skills · Projects · Training · Languages
+Profile | Education | My Skill | Projects & Training | Languages | Programming Language
 
 Cheav Sarin
 
-Frontend Developer · Java & Spring Boot Learner · Aspiring Full-Stack Developer
 
 
+Hi there 👋, my name is Cheav Sarin. I am an aspiring Full-Stack Developer from Cambodia and a third-year Management Information Systems (MIS) student at SETEC Institute.
 
-Hello! 👋 My name is Cheav Sarin. I am a third-year Management Information Systems (MIS) student at SETEC Institute and a graduate of the Korea Software HRD Center Basic Course.
+I completed the intensive Software Development Basic Course at the Korea Software HRD Center. I enjoy building modern web applications with Java, Spring Boot, Next.js, TypeScript, Tailwind CSS, and PostgreSQL. I am still growing as a developer, and I focus on understanding how a complete application works from the user interface to REST APIs and databases.
 
-I enjoy building user-friendly web applications and learning how a complete system works—from the frontend interface to REST APIs and databases. I have experience with Next.js, TypeScript, Tailwind CSS, Java, Spring Boot, PostgreSQL, Git, Docker, and Linux.
-
-My goal is to become a professional full-stack developer who can build clean, maintainable, and useful software.
-
-🔭 I am currently building and practising Spring Boot REST APIs.
-
-🌱 I am learning Java backend development, database design, and API security.
-
-💻 I enjoy frontend development with Next.js and Tailwind CSS.
-
-🤝 I am interested in collaborating on beginner-friendly web and API projects.
-
-🏆 My APILens team received the 3rd Place Top Team Award at the KSHRD Basic Course completion.
+My goal is to become a professional full-stack developer who builds clean, useful, and maintainable software.
 
 Education
 
-SETEC Institute — Phnom Penh, Cambodia
+<b>SETEC Institute</b> — Phnom Penh, Cambodia<b>Major:</b> Bachelor of Management Information Systems<b>Period:</b> 2024–2028 — Currently studying in the third year
 
-Bachelor's Degree in Management Information Systems2024 – 2028 · Currently in the third year
+<b>Korea Software HRD Center</b> — Phnom Penh, Cambodia<b>Program:</b> Software Development Basic Course<b>Period:</b> February 2026–July 2026 — 810 training hours
 
-Relevant studies include programming, databases, web development, software development, UI/UX, and information systems.
+<b>Java:</b> Java fundamentals, OOP, Maven, MVC, JDBC
 
-Korea Software HRD Center — Phnom Penh, Cambodia
+<b>Web:</b> HTML, CSS, JavaScript, Tailwind CSS, JSON, Next.js
 
-Basic Course in Software DevelopmentFebruary 2, 2026 – July 9, 2026 · 810 training hours
+<b>Spring:</b> Spring Boot, REST API, MyBatis, Spring Security, JWT, Thymeleaf
 
-Java: J2SE, object-oriented programming, Maven, MVC, JDBC, and Java fundamentals
+<b>Database:</b> PostgreSQL, SQL, database modelling
 
-Web: HTML, CSS, JavaScript, Flexbox, Tailwind CSS, JSON, and Next.js
+<b>Other:</b> Git, GitHub, Linux, Docker, UI/UX
 
-Spring: Spring Boot, REST API, MyBatis, Spring Security, JWT, and Thymeleaf
+<b>Australian Centre for Education</b> — Cambodia<b>Program:</b> General English Program<b>Period:</b> 2024–2025
 
-Database: Data modelling, PostgreSQL, and SQL
+<b>Kon Saom Ork High School</b> — Kampot, Cambodia<b>Qualification:</b> High School Diploma<b>Period:</b> 2018–2023
 
-Additional tools: Linux, Docker, GitHub, UI/UX, and AI-assisted development tools
+My Skill
 
-Australian Centre for Education — Cambodia
-
-General English Program2024 – 2025
-
-Developed English communication, speaking, listening, reading, and writing skills.
-
-Kon Saom Ork High School — Kampot, Cambodia
-
-High School Diploma2018 – 2023
-
-Back to top
-
-Technical Skills
-
-const cheavSarin = {
-  frontend: [
-    "HTML",
-    "CSS",
-    "JavaScript",
-    "TypeScript",
-    "Next.js",
-    "React",
-    "Tailwind CSS",
-    "Responsive Web Design"
+{
+  Frontend: [
+    "HTML", "CSS", "JavaScript", "TypeScript",
+    "React", "Next.js", "Tailwind CSS"
   ],
 
-  backend: [
-    "Java",
-    "Spring Boot",
-    "REST API",
-    "Spring Data JPA",
-    "MyBatis",
-    "Spring Security",
-    "JWT"
+  Backend: [
+    "Java", "Spring Boot", "REST API",
+    "Spring Data JPA", "MyBatis", "Spring Security", "JWT"
   ],
 
-  database: [
-    "PostgreSQL",
-    "MySQL",
-    "MongoDB",
-    "Oracle SQL",
-    "Database Modelling"
+  Database: [
+    "PostgreSQL", "MySQL", "MongoDB", "Oracle SQL"
   ],
 
-  tools: [
-    "Git",
-    "GitHub",
-    "Docker",
-    "Linux",
-    "Postman",
-    "Swagger / OpenAPI",
-    "IntelliJ IDEA",
-    "Visual Studio Code",
-    "Figma"
+  DevTools: [
+    "Git", "GitHub", "Docker", "Linux", "Nginx", "PM2",
+    "Postman", "Swagger", "IntelliJ IDEA", "VS Code"
   ],
 
-  currentlyLearning: [
-    "Advanced Spring Boot",
-    "API Validation and Exception Handling",
-    "Authentication and Authorization",
-    "Clean Architecture",
-    "Full-Stack Development"
+  DesignTools: ["Figma"],
+
+  CurrentlyLearning: [
+    "Advanced Spring Boot", "API Validation",
+    "Exception Handling", "Authentication and Authorization",
+    "Clean Architecture"
   ]
-};
+}
 
-Back to top
+Projects & Training
 
-Projects
+back to top^
 
-APILens — API Management Platform
+<b>APILens — API Management Platform</b><b>Role:</b> Frontend Developer — Academic Team Project<b>Period:</b> May 2026–July 2026
 
-Role: Frontend DeveloperDuration: May 2026 – July 2026
+APILens is a platform for managing API projects, documentation, versions, comparisons, submissions, and team activity.
 
-APILens is a platform for managing API projects, documentation, versions, comparisons, submissions, and team activities.
+Built responsive interfaces using Next.js, TypeScript, and Tailwind CSS
 
-My contributions:
+Integrated frontend pages with Spring Boot REST APIs
 
-Built project management and API documentation interfaces with Next.js, TypeScript, and Tailwind CSS
+Developed project management, API documentation, upload, version selection, and activity-log features
 
-Integrated the frontend with Spring Boot REST APIs
-
-Developed API version selection, endpoint exploration, file upload, and activity-log features
-
-Handled pagination, asynchronous API requests, loading states, and empty states
+Worked with pagination, asynchronous requests, loading states, and empty states
 
 Helped deploy the frontend using Linux, Nginx, and PM2
 
-Collaborated with the team using Git and GitHub branches
+Collaborated with the team using Git and GitHub
 
-Achievement: 🏆 3rd Place Top Team Award at the KSHRD Basic Course completion
+🏆 Received the 3rd Place Top Team Award at the KSHRD Basic Course completion
 
-Spring Boot Ticket API
+<b>Spring Boot Ticket API</b>
 
-A REST API project for managing travel tickets.
+Built CRUD REST API operations using Controller, Service, Repository, and Entity layers
 
-Built CRUD operations using Controller, Service, Repository, and Entity layers
+Connected Spring Boot with PostgreSQL using Spring Data JPA
 
-Connected Spring Boot to PostgreSQL with Spring Data JPA
-
-Used request validation, custom exceptions, and reusable API responses
+Added validation, custom exceptions, reusable API responses, and duplicate checking
 
 Tested and documented endpoints with Swagger/OpenAPI
 
-JDBC Stock Management System
+<b>JDBC Stock Management System</b>
 
-A Java console application for managing product records in PostgreSQL.
+Created a Java console application connected to PostgreSQL
 
-Display, create, read, update, delete, and search products
+Implemented display, create, read, update, delete, and search features
 
-Used JDBC, prepared statements, result sets, validation, and pagination
+Practised JDBC, prepared statements, result sets, validation, and pagination
 
-Practised database backup, restore, and structured console menus
+<b>Java Banking Console Application</b>
 
-Java Banking Console Application
+Applied encapsulation, abstraction, inheritance, and polymorphism
 
-An object-oriented Java project with checking and saving accounts.
+Implemented deposit, withdrawal, transfer, balance inquiry, and account information
 
-Applied abstraction, inheritance, encapsulation, and polymorphism
+Added validation for names, phone numbers, dates, menu choices, and amounts
 
-Implemented deposit, withdrawal, transfer, balance inquiry, and account display
+<b>Korea Software HRD Center — Software Development Trainee</b><b>Period:</b> February 2026–July 2026
 
-Added user-input validation for names, phone numbers, dates, menus, and amounts
-
-Back to top
-
-Training & Experience
-
-Korea Software HRD Center — Software Development Trainee
-
-February 2026 – July 2026
-
-Completed an intensive 810-hour software-development program
+Completed an intensive 810-hour software development program
 
 Built individual exercises, mini-projects, and a team project
 
-Practised Java, Spring Boot, REST APIs, frontend development, databases, Git, Docker, and Linux
+Practised Java, Spring Boot, web development, databases, Git, Docker, and Linux
 
-Worked in a team environment and presented technical work to instructors
-
-Frontend Development — Academic Project Experience
-
-Created responsive interfaces using Next.js, TypeScript, and Tailwind CSS
-
-Converted UI/UX designs into reusable frontend components
-
-Integrated frontend pages with backend REST APIs
-
-Used Git and GitHub for teamwork, branches, commits, pull requests, and code integration
-
-Back to top
+Presented technical work and collaborated with classmates
 
 Languages
 
-Khmer: Native
+<b>Khmer:</b> Native
 
-English: Intermediate
+<b>English:</b> Intermediate
 
-Korean: Basic
+<b>Korean:</b> Basic
 
-Technologies
+Programming Language
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" alt="Postman" />
-  <img src="https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=black" alt="Swagger" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white" alt="SQL">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" alt="CSS3">
 </p>
 
-Contact
+Frameworks & Tools
 
-Email: cheavsaren65@gmail.com
-
-Phone: +855 71 872 1553
-
-GitHub: github.com/sarinitc
-
-Location: Takhmau City, Cambodia
+<p align="left">
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white" alt="Spring Boot">
+  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white" alt="Next.js">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" alt="Linux">
+  <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" alt="Postman">
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=black" alt="Swagger">
+</p>
