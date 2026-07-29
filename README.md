@@ -1,204 +1,248 @@
 <!--
-if you don't know how to print or save it just use this website 
-https://md2pdf.netlify.app/
+  GitHub Profile README for Cheav Sarin
 
-### Hi there 👋
-
-**rimsila/README.md** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+  To show this README on your GitHub profile:
+  1. Create a public repository with the same name as your GitHub username: sarinitc
+  2. Add this file to that repository and name it README.md
+  3. Commit and push it to GitHub
 -->
 
-<a target="_blank" href="https://github.com/rimsila"><img width="120" align="right" src="https://raw.githubusercontent.com/rimsila/rimsila/main/assets/sila.png"></a>
+<a href="https://github.com/sarinitc">
+  <img width="125" align="right" src="https://github.com/sarinitc.png" alt="Cheav Sarin GitHub profile image" />
+</a>
 
-<!-- <a target="_blank" href="https://tiny.cc/rupeshjs"><img width="250" align="right" src="https://raw.githubusercontent.com/rimsila/rimsila/main/assets/dev.gif"></a> -->
+CURRICULUM VITAE
 
-## CURRICULUM VITAE
+Profile · Education · Technical Skills · Projects · Training · Languages
 
-[Profile](#) | [Education](#education) | [My Skill](#my-skill) | [Working Experiences](#working-experiences) | [Language](#languages) | [Programming Language](#programming-language)
+Cheav Sarin
 
-## Sila Rim / ​​រឹម​ ស៊ីឡា
+Frontend Developer · Java & Spring Boot Learner · Aspiring Full-Stack Developer
 
-[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffcc80)](https://www.linkedin.com/in/sila-rim-a59135166/)
-[![telegram](https://img.shields.io/badge/Telegram-Chat-black?color=14171A&labelColor=blue&logoColor=ffffff)](https://t.me/sila_rim)
-[![Gmail](https://img.shields.io/badge/%20-rimsila.itc@gmail.com-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:rimsila.itc@gmail.com?subject=From%20GitHub&cc=rimsila.itc@gmail&body=Hi,%20there.%20Found%20you%20from%20GitHub.)
-[![Gmail](https://img.shields.io/badge/Phone-+855_319465222-black?color=14171A&labelColor=blue&logoColor=ffffff)](tel:855319465222)
-[![Gmail](https://img.shields.io/badge/Address-Sangkat_Pshar_Derm_Kor_,_Phnom_Penh-black?color=14171A&labelColor=ffcc80&logoColor=ffffff)](https://goo.gl/maps/dQP7hmfbc8xXgzSQA)
 
-Hi There👋, My name is <b>Sila </b>. I'm 24 years old and I've 4+ years experiences with front-end development and achieve more than 20+ various web application and mobile hybrid projects using <b> React JS / React Native - typescript</b>(3+years) and as <b>Web Designer</b>(1year).
 
-I always keep up to date and challenge with new technologies and using Agile methodology in development project(Jira) also i've contributed in open-source on GitHub and Npm 🔭. I like to build react generator tools to make development process fast as much as possible also building my own component libraries to reuse able across project. My skill set up <b>front-end architecture is powerful with popular react framework </b> ensure our project boilerplate is clean structure by using Typescript and unit test(some case) to ensure our project is predicable and maintainable. for consistently and code error checking i've using tool like Eslint/Pretty/StyleLint and Webpack with react code splitting to optimize bundle size to take care about the performance of web applications(google light-house) for better user experience with fully SEO optimization (SSR NextJS) 🌱.
+Hello! 👋 My name is Cheav Sarin. I am a third-year Management Information Systems (MIS) student at SETEC Institute and a graduate of the Korea Software HRD Center Basic Course.
 
-### Education
+I enjoy building user-friendly web applications and learning how a complete system works—from the frontend interface to REST APIs and databases. I have experience with Next.js, TypeScript, Tailwind CSS, Java, Spring Boot, PostgreSQL, Git, Docker, and Linux.
 
-- <b><a href="https://uc.edu.kh/" target="_blank" > The University Of Cambodia:
-  </a> </b> - Phnom Penh<br>
-  <b>Major</b> - BA in Information Technology (2015-2019)
+My goal is to become a professional full-stack developer who can build clean, maintainable, and useful software.
 
-- <b><a href="https://www.kshrd.com.kh/" target="_blank" > Korean Software HRD Center:
-  </a> </b> - Phnom Penh<br>
-  <b>Major</b> - Web Application (8 hours/day , 5month)
+🔭 I am currently building and practising Spring Boot REST APIs.
 
-  - <b>JAVA</b>: J2SE (Basic Java and OOP concepts), J2EE (Servlet and MVC pattern)<br>
-    <b>WEB</b>: HTML5, CSS3, JavaScript, Bootstrap 4, CSS FlexBox, jQuery, AJAX, JSON<br>
-    <b> SPRING</b>: Spring Boot,Spring Security, ThymeLeaf Template Engine
+🌱 I am learning Java backend development, database design, and API security.
 
-- <b><a href="https://camdemo2.wtbidev.co.uk" target="_blank" > Kampong Chheuteal high school :
-  </a> </b> – Kampong Thom<br>
-  <b>Major</b> - General Knowledge - science (2009-2015)
+💻 I enjoy frontend development with Next.js and Tailwind CSS.
 
-### My Skill
+🤝 I am interested in collaborating on beginner-friendly web and API projects.
 
-```tsx
-{
-  Frontend: ['React Typescript', 'React Native', 'Next Js','Umijs','Typescript','DvaJS','AJAX' ,'JSON'],
-  StateManagement: ['Redux Saga/Thunk','Context' , 'Apollo GraphQl'],
-  frontendUI: ['Html5', 'Antd Design', 'MUI', 'Bootstrap 4', 'Css3', 'Sass', 'Less' ,'StyledJs','mdx'],
-  toolsBuildLibrary: ['WebPack' , 'Rollup', 'Npm' ,'Yalc', 'Lerna' , 'Npm', 'yarn'],
-  toolsTest: ['Jest'],
-  toolsDesign: ['Adobe XD'],
-  commonLibrary: ['Axios', 'hook useRequest', 'EChartJs'],
-  toolsLint: ['Eslint' , 'Pretty' , 'StyleLint',],
-  toolsDev: ['vs code', 'postman', 'jira' , 'Trello'],
-  Cloud: ['Vercel','Heroku', 'Netlify','Github Page'],
-  basicLanguages: ['Linux','SocketIo','Java', 'SpringBoot', 'flutter'],
-  myOpenSourceProject: ['Template Starter','Npm Library']
-}
-```
+🏆 My APILens team received the 3rd Place Top Team Award at the KSHRD Basic Course completion.
 
-### Working Experiences
+Education
 
-[back to top^](#curriculum-vitae)
+SETEC Institute — Phnom Penh, Cambodia
 
-- <b> <a target="_blank" href="https://bloc.asia/" target="_blank" > Bloc Delivery:
-  </a></b> <br>
-  <b>React/ReactNative Developer</b> - August 2020 - July 2021 (1year)
+Bachelor's Degree in Management Information Systems2024 – 2028 · Currently in the third year
 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I'm working for Bloc Delivery almost 1year to build ReactJs and React Native projects on <b>ecommerce and delivery web app and application</b>.
+Relevant studies include programming, databases, web development, software development, UI/UX, and information systems.
 
-  - <b>Public Project Reference</b>
-    - <a target="_blank" href="https://play.google.com/store/apps/details?id=com.bongtk.bloc">https://web.bloc.asia </a> - Delivery and Mall (Mobile App - ReactNative)
-    - <a target="_blank" href="https://web.bloc.asia/home">https://web.bloc.asia </a> - Delivery and Mall (web desktop version)
-    - <a target="_blank" href="https://m.bloc.asia/home">https://m.bloc.asia </a> - Delivery, Mall, Ticket (web mobile version open with phone)
-  - <b>Private Project</b> - 6 (Admin-Portal)
+Korea Software HRD Center — Phnom Penh, Cambodia
 
-- <b> <a target="_blank" href="https://github.com/rimsila/next-dev" target="_blank" > Next Dev Team:
-  </a></b> <br>
-  <b>React Library</b> 2020 - Present (maintenance)
+Basic Course in Software DevelopmentFebruary 2, 2026 – July 9, 2026 · 810 training hours
 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I'm working for Next Dev Team to build open source tools, starter template project with React library.
+Java: J2SE, object-oriented programming, Maven, MVC, JDBC, and Java fundamentals
 
-  - <b>Public Project Reference</b>
-    - <a target="_blank" href="https://github.com/rimsila/react-ts-monorepo">React Ts Mono-Repo</a>: code sharing between to web to web, Web to React Native (sharing state, component,utils...)
-    - <a target="_blank" href="https://rimsila.github.io/next-dev">Next Dev React Library </a> (core/component/hook/best practice document etc )
-    - <a target="_blank" href="https://github.com/rimsila/next-dev-template">next-dev-template</a>: React Ts boilerplate integrate with next library provide all common template and stater auth, axios with refresh token,form validate, global handling error (auto message , logOut, network error) etc.   
-    - <a target="_blank" href="https://github.com/rimsila/react-library-template-starter">Starter React Library with Dumijs</a>: Build own npm library with Rollup and demo with Dumi . 
+Web: HTML, CSS, JavaScript, Flexbox, Tailwind CSS, JSON, and Next.js
 
-- <b> <a target="_blank" href="https://www.slash.co/" target="_blank" >Slash Foundry:
-  </a></b> <br>
-  <b>React Developer</b> - February 2019 - August 2020 (1 year 7 months)
+Spring: Spring Boot, REST API, MyBatis, Spring Security, JWT, and Thymeleaf
 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I've worked almost 1 year and 7 months for a Singapore company located in the Phnom Penh office. My skill working on developing web UI using <b>React</b> <b>/React Native typescript</b>
+Database: Data modelling, PostgreSQL, and SQL
 
-  - <b>Public Project Reference</b>
-    - <a target="_blank" href="https://tripworld.co">https://tripworld.co </a> - booking web app - flight, hotel, restaurant (React TS/ReduxSaga/Antd Design)
-    - <a target="_blank" href="https://techforimpact.asia">https://techforimpact.asia </a> - Asian Development Bank Tech News (React TS/ReduxSaga/Bootstrap4)
-    - [Augmented Tribe App](https://play.google.com/store/apps/details?id=com.asa.augmentedtribe&hl=en) - Learning Platform (small part - ReactNative TS/Mobx/Jest)
-    - <a target="_blank" href="https://www.slash.co">https://www.slash.co </a> - slash web portfolio (Numjunk/Ejs/Bootstrap4)
-    - <a target="_blank" href="http://startupjungle.org">http://startupjungle.org </a> - slash event (Laravel/Bootstrap4)
-    - [Real Estate](http://dev.acropolisasia.com.s3-website-ap-southeast-1.amazonaws.com/) - Real Estate(processing) (React TS/ReduxSaga/Antd Design)
-    - [Real Estate simulator](http://symulator.acropolisasia.com.s3-website-ap-southeast-1.amazonaws.com/) - Real Estate simulator(processing) (React TS/Antd Design/context)
-    - [Covid19](http://covid19-containment-index.com.s3-website-ap-southeast-1.amazonaws.com/) - Covid19 Containment Index (React/Antd Design/Echart/context)
+Additional tools: Linux, Docker, GitHub, UI/UX, and AI-assisted development tools
 
-  - <b>Private Project</b> - 5 (Admin-Portal)
+Australian Centre for Education — Cambodia
 
-<!-- * -----PlanB---->
+General English Program2024 – 2025
 
-- <b> <a target="_blank" href="https://planb-cambodia.com" target="_blank"> PlanB Cambodia:
-  </a></b> <br>
-  <b>Web Designer</b> - Jan, 2017 - Jan, 2018 (1 year)
-  &nbsp;I've worked for a year at japanese company located in Phnom Penh. I've designed a layout and developed a beautiful user-friendly website, including optimized page speed following the
-  flow of business and UX/UI.<br/>
+Developed English communication, speaking, listening, reading, and writing skills.
 
-  <b>Skills & Tools:</b> HTML5, Javascript, Jquery, CSS3, SCSS, Bootstrap4, Css FlexBox, PhotoShop, and Ai.
+Kon Saom Ork High School — Kampot, Cambodia
 
-- <b>Asean City International School:</b><br>
-  <b>Computer Teacher</b> - 2016 - 2017 (6 months)
+High School Diploma2018 – 2023
 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Greeting students every morning and teaching them about MS office, internet and Email. Moreover, I’ve control computer laboratory, maintenance, and setup software and windows for the school.<br/>
-  <b>Skills & Tools:</b> Microsoft Office, Computer Maintenance , Installing software and Setup
-  Windows.
+Back to top
 
-### Languages
+Technical Skills
 
-- <b>Khmer:</b> Native Language
-- <b>English:</b> Efficiency (B1-B2)
+const cheavSarin = {
+  frontend: [
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "TypeScript",
+    "Next.js",
+    "React",
+    "Tailwind CSS",
+    "Responsive Web Design"
+  ],
 
-### Programming Language:
+  backend: [
+    "Java",
+    "Spring Boot",
+    "REST API",
+    "Spring Data JPA",
+    "MyBatis",
+    "Spring Security",
+    "JWT"
+  ],
+
+  database: [
+    "PostgreSQL",
+    "MySQL",
+    "MongoDB",
+    "Oracle SQL",
+    "Database Modelling"
+  ],
+
+  tools: [
+    "Git",
+    "GitHub",
+    "Docker",
+    "Linux",
+    "Postman",
+    "Swagger / OpenAPI",
+    "IntelliJ IDEA",
+    "Visual Studio Code",
+    "Figma"
+  ],
+
+  currentlyLearning: [
+    "Advanced Spring Boot",
+    "API Validation and Exception Handling",
+    "Authentication and Authorization",
+    "Clean Architecture",
+    "Full-Stack Development"
+  ]
+};
+
+Back to top
+
+Projects
+
+APILens — API Management Platform
+
+Role: Frontend DeveloperDuration: May 2026 – July 2026
+
+APILens is a platform for managing API projects, documentation, versions, comparisons, submissions, and team activities.
+
+My contributions:
+
+Built project management and API documentation interfaces with Next.js, TypeScript, and Tailwind CSS
+
+Integrated the frontend with Spring Boot REST APIs
+
+Developed API version selection, endpoint exploration, file upload, and activity-log features
+
+Handled pagination, asynchronous API requests, loading states, and empty states
+
+Helped deploy the frontend using Linux, Nginx, and PM2
+
+Collaborated with the team using Git and GitHub branches
+
+Achievement: 🏆 3rd Place Top Team Award at the KSHRD Basic Course completion
+
+Spring Boot Ticket API
+
+A REST API project for managing travel tickets.
+
+Built CRUD operations using Controller, Service, Repository, and Entity layers
+
+Connected Spring Boot to PostgreSQL with Spring Data JPA
+
+Used request validation, custom exceptions, and reusable API responses
+
+Tested and documented endpoints with Swagger/OpenAPI
+
+JDBC Stock Management System
+
+A Java console application for managing product records in PostgreSQL.
+
+Display, create, read, update, delete, and search products
+
+Used JDBC, prepared statements, result sets, validation, and pagination
+
+Practised database backup, restore, and structured console menus
+
+Java Banking Console Application
+
+An object-oriented Java project with checking and saving accounts.
+
+Applied abstraction, inheritance, encapsulation, and polymorphism
+
+Implemented deposit, withdrawal, transfer, balance inquiry, and account display
+
+Added user-input validation for names, phone numbers, dates, menus, and amounts
+
+Back to top
+
+Training & Experience
+
+Korea Software HRD Center — Software Development Trainee
+
+February 2026 – July 2026
+
+Completed an intensive 810-hour software-development program
+
+Built individual exercises, mini-projects, and a team project
+
+Practised Java, Spring Boot, REST APIs, frontend development, databases, Git, Docker, and Linux
+
+Worked in a team environment and presented technical work to instructors
+
+Frontend Development — Academic Project Experience
+
+Created responsive interfaces using Next.js, TypeScript, and Tailwind CSS
+
+Converted UI/UX designs into reusable frontend components
+
+Integrated frontend pages with backend REST APIs
+
+Used Git and GitHub for teamwork, branches, commits, pull requests, and code integration
+
+Back to top
+
+Languages
+
+Khmer: Native
+
+English: Intermediate
+
+Korean: Basic
+
+Technologies
 
 <p align="left">
-
-<a href="#" target="_blank" > <img align="left" title="javascript" 
-  src="https://raw.githubusercontent.com/rimsila/rimsila/main/assets/javascript.svg" alt="reactnative" width="26px" height="26px"  />
-</a>
-<a href="#" target="_blank"> <img align="left" title="react native"
-  src="https://raw.githubusercontent.com/rimsila/rimsila/main/assets/react-native.svg" alt="reactnative" width="26px" height="26px"  />
-</a>
-<a href="#" target="_blank"> <img align="left" title="react"
-  src="https://raw.githubusercontent.com/rimsila/rimsila/main/assets/react.svg" alt="reactnative" width="26px" height="26px"  />
-</a>
-<a href="#" target="_blank"> <img align="left"
-  src="https://raw.githubusercontent.com/rimsila/rimsila/main/assets/typescript.svg" alt="reactnative" width="26px" height="26px"  />
-</a>
-<a href="#" target="_blank"> <img align="left" title="redux"
-  src="https://raw.githubusercontent.com/rimsila/rimsila/main/assets/redux.svg" alt="reactnative" width="26px" height="26px"  />
-</a>
-<a href="#" target="_blank"> <img align="left" title="graph"
-  src="https://raw.githubusercontent.com/rimsila/rimsila/main/assets/graph.svg" alt="reactnative" width="26px" height="26px"  />
-</a>
-
-<a href="#" target="_blank"> <img align="left" title="Sass"
-  src="https://raw.githubusercontent.com/rimsila/rimsila/main/assets/Sass.svg" alt="reactnative" width="26px" height="26px"  />
-</a>
-<a href="#" target="_blank"> <img align="left" title="less"
-  src="https://raw.githubusercontent.com/rimsila/rimsila/main/assets/less.svg" alt="reactnative" width="26px" height="26px"  />
-</a>
-
-<a href="#" target="_blank"> <img align="left" title="material-ui"
-  src="https://raw.githubusercontent.com/rimsila/rimsila/main/assets/material-ui.svg" alt="reactnative" width="26px" height="26px"  />
-</a>
-<a href="#" target="_blank"> <img align="left" title="antd"
-  src="https://raw.githubusercontent.com/rimsila/rimsila/main/assets/antd.svg" alt="reactnative" width="26px" height="26px"  />
-</a>
-<a href="#" target="_blank"> <img align="left" title="next js"
-  src="https://raw.githubusercontent.com/rimsila/rimsila/main/assets/cib-next-js.svg" alt="reactnative" width="26px" height="26px"  />
-</a>
-<a href="#" target="_blank"> <img align="left" title="Bootstrap"
-  src="https://raw.githubusercontent.com/rimsila/rimsila/main/assets/Bootstrap.svg" alt="reactnative" width="26px" height="26px"  />
-</a>
-
-<a href="#" target="_blank"> <img align="left" title="github"
-  src="https://raw.githubusercontent.com/rimsila/rimsila/main/assets/github color.svg" alt="reactnative" width="26px" height="26px"  />
-</a>
-<a href="#" target="_blank"> <img align="left" title="gitlab"
-  src="https://raw.githubusercontent.com/rimsila/rimsila/main/assets/gitlab.svg" alt="reactnative" width="26px" height="26px"  />
-</a>
-<a href="#" target="_blank"> <img align="left" title=" trello"
-  src="https://raw.githubusercontent.com/rimsila/rimsila/main/assets/trello.svg" alt="reactnative" width="26px" height="26px"  />
-</a>
-<a href="#" target="_blank"> <img align="left" title=" jira"
-  src="https://raw.githubusercontent.com/rimsila/rimsila/main/assets/jira.svg" alt="reactnative" width="26px" height="26px"  />
-</a>
-
+  <img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=black" alt="Swagger" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" alt="Figma" />
 </p>
 
-[back to top^](#curriculum-vitae)
+Contact
+
+Email: cheavsaren65@gmail.com
+
+Phone: +855 71 872 1553
+
+GitHub: github.com/sarinitc
+
+Location: Takhmau City, Cambodia
