@@ -3,17 +3,13 @@ GitHub Profile README for Cheav Sarin
 Repository name must be the same as the GitHub username: sarinitc
 -->
 
-<a target="_blank" href="https://github.com/sarinitc">
-  <img width="120" align="right" src="https://github.com/sarinitc.png" alt="Cheav Sarin profile photo">
-</a>
+<a target="_blank" href="https://github.com/sarinitc"><img style="position: relative; bottom: 20px;" width="120" align="right" src="https://github.com/sarinitc.png?size=200" alt="Cheav Sarin profile photo"></a>
 
 CURRICULUM VITAE
 
-Profile | Education | My Skill | Projects & Training | Languages | Programming Language
+Profile | Education | My Skill | Projects & Training | Language | Programming Language
 
 Cheav Sarin
-
-
 
 Hi there 👋, my name is Cheav Sarin. I am an aspiring Full-Stack Developer from Cambodia and a third-year Management Information Systems (MIS) student at SETEC Institute.
 
